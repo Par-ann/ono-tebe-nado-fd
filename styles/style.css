@@ -10,7 +10,7 @@
   color: #000;
 }
 
-.header_menu  {
+.header_menu {
   justify-self: start;
 }
 
@@ -33,10 +33,9 @@
   list-style: none;
 }
 
-.header_menu-link.header_menu-item_active { 
+.header_menu-link.header_menu-item_active {
   border-bottom: 0;
 }
-
 
 .header_logo {
   justify-self: center;
@@ -58,7 +57,6 @@
   line-height: 1.35;
   text-underline-offset: 4px;
   max-width: 265px;
-  
 }
 
 .header_address {
@@ -87,7 +85,7 @@
   position: absolute;
   z-index: -1;
   inset: 0;
-  background-color: rgb(0 0 0 / 0.6);;
+  background-color: rgb(0 0 0 / 0.6);
 }
 
 .cover__title {
@@ -140,7 +138,6 @@
   padding: 12px 32px;
   background-color: transparent;
   border: 1px solid #fff;
-
 }
 
 .lots {
@@ -173,7 +170,7 @@
   height: 596px;
 }
 
-.card-link{
+.card-link {
   display: block;
   height: 100%;
   text-decoration: none;
@@ -196,7 +193,7 @@
   text-transform: uppercase;
   text-decoration: underline;
   text-underline-offset: 4px;
-  text-decoration-thickness: 1px; 
+  text-decoration-thickness: 1px;
 }
 
 .card__text {
@@ -261,7 +258,7 @@
   height: 114px;
 }
 
-.about__column_content{
+.about__column_content {
   display: flex;
   flex-direction: column;
   margin-top: 136px;
@@ -302,7 +299,7 @@
   text-align: center;
 }
 
-.footer__menu-list{
+.footer__menu-list {
   list-style: none;
 }
 
@@ -321,7 +318,6 @@
   justify-content: end;
   gap: 48px;
   list-style: none;
-  
 }
 
 .footer__social-list-item {
